@@ -79,10 +79,3 @@ A simple and elegant browser-based Todo List application developed using **HTML*
 - **CSS**: Enhances the visual design with responsive and dynamic styles.
 - **JavaScript**: Powers task management, event handling, and DOM manipulation.
 
----
-
-## 🎯 How to Run the Application
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
